@@ -1,1 +1,0 @@
-com.vladih.computer_vision.flutter_vision
