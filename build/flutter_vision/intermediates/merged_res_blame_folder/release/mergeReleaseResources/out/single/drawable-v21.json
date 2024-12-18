@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.vladih.computer_vision.flutter_vision-release-27:/drawable-v21/notification_action_background.xml",
+        "source": "com.vladih.computer_vision.flutter_vision-core-1.13.1-17:/drawable-v21/notification_action_background.xml"
+    }
+]
